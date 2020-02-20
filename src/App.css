@@ -1,0 +1,33 @@
+body {
+  background-color: #79a3f8;
+  color: #5a819e;
+}
+
+.App-body {
+  background-color: #fafafae0;
+  color: #5a819e;
+  margin: 1vh;
+  padding: 2vh;
+}
+
+._dropdown {
+  margin-bottom: 3vh;
+}
+
+.segment_Body {
+  margin: 1vh;
+  padding: 2vh;
+}
+
+.card {
+  background-color: #ffe5c4;
+  border-color: #5a819e;
+  border-radius: 10%;
+  margin: 1vh;
+  padding: 2vh;
+}
+
+
+
+
+
